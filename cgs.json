@@ -1,10 +1,10 @@
 {
 	"name": "Cards of Excadore",
 	"allCardsUrl": null,
-	"autoUpdateUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/master/cgs.json",
+	"autoUpdateUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/main/cgs.json",
 	"bannerImageUrl": null,
-	"cardBackImageUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/master/CardBack.png",
-	"cardImageUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/master/sets/{cardSet}/{cardId}.png",
+	"cardBackImageUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/main/CardBack.png",
+	"cardImageUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/main/sets/{cardSet}/{cardId}.png",
 	"cardPrimaryProperty": "description",
 	"cardProperties": [
 		{
