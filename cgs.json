@@ -1,0 +1,26 @@
+{
+	"name": "Cards of Excadore",
+	"allCardsUrl": null,
+	"autoUpdateUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/main/cgs.json",
+	"bannerImageUrl": null,
+	"cardBackImageUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/main/CardBack.png",
+	"cardImageUrl": "https://raw.githubusercontent.com/AetherAndAnchorStudios/Cards-of-Excadore/main/sets/{cardSet}/{cardId}.png",
+	"cardPrimaryProperty": "description",
+	"cardProperties": [
+		{
+			"name": "description",
+			"type": "string",
+			"display": "Description",
+			"displayEmpty": "",
+			"displayEmptyFirst": false,
+			"delimiter": "",
+			"backName": "",
+			"frontName": "",
+			"properties": []
+		}
+	],
+	"cardSetIdentifier": "setCode",
+	"cgsGamesLink": null,
+	"playMatImageUrl": null,
+	"rulesUrl": null
+}
